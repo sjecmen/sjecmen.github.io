@@ -1,34 +1,58 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"shah":
+  - firstname: ["Nihar", "Nihar B."]
+    url: https://www.cs.cmu.edu/~nihars/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"fang":
+  - firstname: ["Fei"]
+    url: https://feifang.info/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"conitzer":
+  - firstname: ["Vincent"]
+    url: http://www.cs.cmu.edu/~conitzer/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"zhang": 
+  - firstname: ["Hanrui"]
+    url: https://users.cs.duke.edu/~hrzhang/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"sinha":
+  - firstname: ["Arunesh"]
+    url: http://aruneshsinha.net/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"li":
+  - firstname: ["Zun"]
+    url: https://rezunli96.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"tran-thanh":
+  - firstname: ["Long"]
+    url: https://human-agentlearning.github.io/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"dhull":
+  - firstname: ["Komal"]
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"kothari":
+  - firstname: ["Pravesh", "Pravesh K."]
+    url: http://www.cs.cmu.edu/~praveshk/
+
+"yoon":
+  - firstname: ["Minji"]
+    url: https://minjiyoon.xyz/
+
+"ugander":
+  - firstname: ["Johan"]
+    url: https://web.stanford.edu/~jugander/
+
+"saveski":
+  - firstname: ["Martin"]
+    url: https://faculty.washington.edu/msaveski/
+
+"xu":
+ - firstname: ["Yixuan", "Yixuan Even"]
+   url: https://yixuanevenxu.github.io/
+
+"liu":
+ - firstname: ["Ryan"]
+   url: https://theryanl.github.io/
+
+"akoglu":
+- firstname: ["Leman"]
+  url: https://www.andrew.cmu.edu/user/lakoglu/

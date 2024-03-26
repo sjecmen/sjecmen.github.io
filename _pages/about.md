@@ -1,25 +1,27 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>sjecmen [at] gmail [dot] com</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+In March 2024, I joined Tower Research Capital as a quantitative trader. [[CV]](assets/pdf/cv.pdf)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I previously completed a PhD in the Computer Science Department at Carnegie Mellon University, where I was co-advised by [Fei Fang](https://feifang.info/) and [Nihar Shah](https://www.cs.cmu.edu/~nihars/). During my PhD, my research focused primarily on issues of fraud and malicious behavior in settings where people evaluate things. Important decisions are often made based on human evaluations, but in many cases, these decision-making processes are vulnerable to fraud on the part of the evaluators or other participants. My work proposes practical methods that provide robustness to various forms of such malicious behavior. More broadly, my research interests include game theory, optimization, statistics, and related areas. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+A specific application where my research has had an impact is in the area of scientific peer review. As one example, a major concern in this setting is collusion between reviewers and authors. We provide efficient algorithms for finding high-quality randomized assignments, thereby limiting the probability that a colluding reviewer-author pair succeeds at manipulating the paper assignment. Our main algorithm has been implemented at OpenReview.net and deployed for paper assignment at several venues, including the AAAI 2022-2023 and KDD 2023 conferences.
+
+Before coming to CMU, I graduated from the University of Michigan with a BSE in Computer Science and a Minor in Economics. There, I was supervised by [Michael Wellman](https://strategicreasoning.org/michael-p-wellman/) and did research on techniques for empirical game theory. 
+
+During the summer of 2023, I worked at Tower Research Capital as a quantitative trader intern. I previously worked at Citadel and at CME Group as a software engineering intern.
